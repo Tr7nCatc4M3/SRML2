@@ -1,0 +1,11 @@
+C:\SRML2\SRML2\SRML2Installer\bin\Debug\SRML2Installer.exe.config
+C:\SRML2\SRML2\SRML2Installer\bin\Debug\SRML2Installer.exe
+C:\SRML2\SRML2\SRML2Installer\bin\Debug\SRML2Installer.pdb
+C:\SRML2\SRML2\SRML2Installer\bin\Debug\Colorful.Console.dll
+C:\SRML2\SRML2\SRML2Installer\bin\Debug\Mono.Cecil.dll
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.csproj.AssemblyReference.cache
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.csproj.SuggestedBindingRedirects.cache
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.csproj.CoreCompileInputs.cache
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.csproj.CopyComplete
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.exe
+C:\SRML2\SRML2\SRML2Installer\obj\Debug\SRML2Installer.pdb
