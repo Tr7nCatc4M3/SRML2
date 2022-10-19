@@ -1,0 +1,3 @@
+C:\SRML2\SRML2\SRML2\obj\Debug\SRML2.csproj.AssemblyReference.cache
+C:\SRML2\SRML2\SRML2\obj\Debug\SRML2.csproj.SuggestedBindingRedirects.cache
+C:\SRML2\SRML2\SRML2\obj\Debug\SRML2.csproj.CoreCompileInputs.cache
